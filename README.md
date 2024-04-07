@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
     </head>
     <body bgcolor="#f9d793" link="#009D5B" vlink="#F68B1F">
-         <h2><p align="center"><a name="top">Koppepan Orange's yabai site</a></p></h2>
+         <h2><p align="center"><a name="top">Koppepan Orange's meibo site</a></p></h2>
          <p align="center">ここはめいぼサイト！<i>ゆっくりしていってね！！</i></p>
 <hr noshade="true">
     <p align="center">3-O
