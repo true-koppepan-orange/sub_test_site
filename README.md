@@ -131,12 +131,14 @@
 			<li></li>
 			<li></li>
 			<li></li>
-			<li></li>
 			</ol>
 		</details>
 		<details><summary>3-4</summary>
 			36名　担任:松岡真未
 			<ol>
+			<li>安藤唯愛</li>
+			<li></li>
+			<li>今井海稀</li>
 			<li></li>
 			<li></li>
 			<li></li>
@@ -146,40 +148,35 @@
 			<li></li>
 			<li></li>
 			<li></li>
+			<li>近藤杏菜</li>
+			<li>近藤凛</li>
+			<li></li>
+			<li></li>
+			<li>田添陽菜</li>
+			<li>田中結菜</li>
+			<li>丹所映瑠紗</li>
 			<li></li>
 			<li></li>
 			<li></li>
 			<li></li>
 			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>長谷川正紘</li>
+			<li>畑本星輝</li>
+			<li>服部陽咲</li>
+			<li>濱野翔</li>
+			<li>福山心夏</li>
+			<li>益子柚樹</li>
+			<li>身𠮷巧望</li>
+			<li>森浦啓太</li>
+			<li>山口晃平</li>
+			<li>山本一花</li>
+			<li>吉田琉唯</li>
+			<li>梶田慎之助</li>
 			</ol>
 		</details>
 		<details><summary>3-5</summary>
 			36名　担任:石黒良弥
 			<ol>
-			<li></li>
 			<li></li>
 			<li></li>
 			<li></li>
@@ -257,7 +254,6 @@
 			<li></li>
 			<li></li>
 			<li></li>
-			<li></li>
 			</ol>
 		</details>
 		<details><summary>3-7</summary>
@@ -299,14 +295,11 @@
 			<li></li>
 			<li></li>
 			<li></li>
-			<li></li>
 			</ol>
 		</details>
 		<details><summary>3-8</summary>
-			35名　担任:川口純平(江戸号)
+			35名　担任:川口純平
 			<ol>
-			<li></li>
-			<li></li>
 			<li></li>
 			<li></li>
 			<li></li>
