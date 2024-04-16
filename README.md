@@ -348,4 +348,13 @@
                 <input type="text"  size="30">
                 (2)
                 <br>
-                <textarea rows="10" cols="35"></textarea></form><p>
+                <textarea rows="10" cols="35"></textarea></form></p>
+			
+	<p align="center">zenbu open dekiru
+ 		<details><summary>hiraitene</summary>
+   		<br><ol><li><a href="https://sv01.sln.c4th.jp/u/c232068seibuj">朝のやつ</a></li>
+		<li><a href="https://kasugai.qubena.app/workbook">学ぶやつ</a></li>
+		<li><a href="https://memo.onl.jp/?koppepan23">メモるやつ</a></li>
+		<li><a href="https://mail.google.com/mail/u/0/?ogbl#inbox">メールです</a></li>
+		<li><a href="https://classroom.google.com/u/0/c/NjYwNDU1MDQxMTM1">教室です</a></li>
+		<li><a href="https://koppepan-orange.github.io/test_site/">色々です</a></li></ol></p>
