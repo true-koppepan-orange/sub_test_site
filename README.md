@@ -1,4 +1,3 @@
-# test_site_meibo
 <html>
     <head>
         <meta charset="UTF-8">
@@ -137,7 +136,7 @@
 			36名　担任:松岡真未
 			<ol>
 			<li>安藤唯愛</li>
-			<li></li>
+			<li>石原もな佳</li>
 			<li>今井海稀</li>
 			<li></li>
 			<li></li>
@@ -155,11 +154,11 @@
 			<li>田添陽菜</li>
 			<li>田中結菜</li>
 			<li>丹所映瑠紗</li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>土屋凛心</li>
+			<li>中村悠翔</li>
+			<li>中山知咲</li>
+			<li>名倉さ月</li>
+			<li>野見山維知香</li>
 			<li>長谷川正紘</li>
 			<li>畑本星輝</li>
 			<li>服部陽咲</li>
