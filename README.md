@@ -332,7 +332,7 @@
 			<li></li>
 			<li></li>
 			<li></li>
-			<li></li>
+			<li>吉田遥流</li>
 			<li></li>
 			</ol>
 		</details>
